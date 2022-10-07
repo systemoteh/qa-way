@@ -12,3 +12,6 @@ https://itvdn.com/ru/specialities/qa
 
 Тестирование ПО для начинающих
 https://www.udemy.com/share/102dvS2@Pm1jfUtjWlMOd05KC3B/fRRu/
+
+Тестирование-ПО-с-Нуля-до-Специалиста
+https://stepik.org/course/Тестирование-ПО-с-Нуля-до-Специалиста-116411/
