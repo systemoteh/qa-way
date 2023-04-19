@@ -14,3 +14,6 @@ https://www.youtube.com/playlist?list=PLRs8EELOYKc7DYIQixlV1s4EH5SR3TdNB
 
 Лёша Маршал
 https://youtube.com/playlist?list=PLZqgWWF4O-zg03RGSZ2GpHLE3BmO8bjKo
+
+ТЕСТИРОВАНИЕ С НУЛЯ.БЕСПЛАТНЫЙ КУРС
+https://karpov.courses/dev/qa
