@@ -9,6 +9,41 @@ QA Studio
 https://open.qa.studio/manual-qa
 
 QA Studio
+Один день тестировщика. Запись вебинара
+https://www.youtube.com/watch?v=3G9eRj88hDg
+
+QA Studio
+Как создать баг-репорт на практике. С примером шаблона | QA Studio
+https://www.youtube.com/watch?v=R5pB4d5Hh0Q
+
+QA Studio
+Первые шаги для тестировщика в изучении SQL. Практика на тренажёре
+https://www.youtube.com/watch?v=wJZQn40TCWU
+
+QA Studio
+Клиент-серверная архитектура
+https://www.youtube.com/watch?v=0H9LKTvNxBQ
+
+QA Studio
+Практика по работе с API и микросервисами на простом примере. Часть 1
+https://www.youtube.com/watch?v=4yo9GvgTJ20
+
+QA Studio
+Практика по работе с API и микросервисами на простом примере. Часть 2
+https://www.youtube.com/watch?v=SbJw9CgP6_g
+
+QA Studio
+Интенсив API и Postman ч.1
+https://www.youtube.com/watch?v=bCNpZZFBzN0
+
+QA Studio
+Сайт с багами (найти 20 багов)
+https://test-shop.qa.studio/
+
+QA Studio
+https://taplink.cc/qa.studio
+
+QA Studio
 Мок-собесы на YT канале: @qa.studio
 Тренажёр по Devtools: https://devtools.qa.studio/
 Тренажёр по JSON: https://json.qa.studio/
