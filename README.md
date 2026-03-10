@@ -56,6 +56,12 @@ https://stepik.org/187627
 QA Studio
 https://manual.qa.studio/
 
+Pragmatic Programmer
+https://stepik.org/users/612208117/teach
+
+Simulative SQL
+https://app.simulative.ru/profile/free
+
 Тестирование ПО для начинающих
 https://www.udemy.com/share/102dvS2@Pm1jfUtjWlMOd05KC3B/fRRu/
 
