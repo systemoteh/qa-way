@@ -37,9 +37,16 @@ QA Studio
 https://www.youtube.com/watch?v=bCNpZZFBzN0
 
 QA Studio
-Тренажёр по Devtools: https://devtools.qa.studio/
-Тренажёр по JSON: https://json.qa.studio/
-Тренажёр по JWT: https://qa.studio/jwt
+Тренажёр по Devtools
+https://devtools.qa.studio/
+
+QA Studio
+Тренажёр по JSON
+https://json.qa.studio/
+
+QA Studio
+Тренажёр по JWT
+https://qa.studio/jwt
 
 QA Studio
 Сайт с багами (найти 20 багов)
@@ -50,7 +57,6 @@ https://taplink.cc/qa.studio
 
 QA Studio
 Мок-собесы на YT канале: @qa.studio
-
 
 QA Studio
 Тренажёр по API «Битва покемонов» с лекциями и поддержкой
