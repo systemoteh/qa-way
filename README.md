@@ -86,5 +86,8 @@ https://youtube.com/playlist?list=PLZqgWWF4O-zg03RGSZ2GpHLE3BmO8bjKo
 Artsiom Rusau
 https://stepik.org/users/rusau/teach
 
+Профессия: Тестировщик с нуля с ИИ
+https://stepik.org/course/250559/promo
+
 Pragmatic Programmer
 https://stepik.org/users/pragmatic_programmer/teach
