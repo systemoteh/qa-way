@@ -84,7 +84,13 @@ https://www.youtube.com/playlist?list=PLRs8EELOYKc7DYIQixlV1s4EH5SR3TdNB
 https://youtube.com/playlist?list=PLZqgWWF4O-zg03RGSZ2GpHLE3BmO8bjKo
 
 Artsiom Rusau
+https://learn.rusau.net/courses
+
+Artsiom Rusau
 https://stepik.org/users/rusau/teach
+
+Тестирование ПО с нуля. Продвинутый курс тестировщика с ИИ
+https://learn.rusau.net/catalog/testirovanie-po-prodvinutyy
 
 Профессия: Тестировщик с нуля с ИИ
 https://stepik.org/course/250559/promo
